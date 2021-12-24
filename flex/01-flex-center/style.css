@@ -3,6 +3,7 @@
   border: 4px solid midnightblue;
   width: 400px;
   height: 300px;
+  /* the following 3 lines to center the box */
   display: flex;
   align-items: center;
   justify-content: center;
